@@ -233,9 +233,6 @@ html, body, [class*="css"] {
 # ── Load vector store (cached) ─────────────────────────────────────────────────
 @st.cache_resource(show_spinner=False)
 def get_collection():
-    import rag_engine
-    rag_engine.DATA_FILE = Path(r"C:\Users\Taha\Downloads\files\data\toyota_pakistan_data.txt")
-    rag_engine.CHROMA_DB_PATH = Path(r"C:\Users\Taha\Downloads\files\embeddings\chroma_db")
     return build_vector_store()
 
 
