@@ -1,16 +1,19 @@
 ﻿import os
+import streamlit as st
 from pathlib import Path
 from dotenv import load_dotenv
 import chromadb
 from sentence_transformers import SentenceTransformer
 from google import genai
 
-load_dotenv(BASE_DIR / ".env")
+# BASE_DIR pehle define karo
 BASE_DIR = Path(__file__).resolve().parent
 
-GEMINI_API_KEY  = os.getenv("GEMINI_API_KEY")
-DATA_FILE = BASE_DIR / "data" / "toyota_pakistan_data.txt"
-CHROMA_DB_PATH = BASE_DIR / "embeddings" / "chroma_db"
+load_dotenv(BASE_DIR / ".env")
+
+GEMINI_API_KEY  = st.secrets.get("GEMINI_API_KEY") or os.getenv("GEMINI_API_KEY")
+DATA_FILE       = BASE_DIR / "data" / "toyota_pakistan_data.txt"
+CHROMA_DB_PATH  = BASE_DIR / "embeddings" / "chroma_db"
 COLLECTION_NAME = "toyota_pakistan"
 CHUNK_SIZE      = 400
 CHUNK_OVERLAP   = 80
