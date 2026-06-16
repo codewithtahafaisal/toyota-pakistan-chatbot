@@ -1,0 +1,459 @@
+=== TOYOTA YARIS ===
+
+MODEL: Toyota Yaris
+MANUFACTURER: Indus Motor Company (IMC), Pakistan
+AVAILABLE VARIANTS: GLI MT, GLI CVT, ATIV MT, ATIV CVT, ATIV X MT, ATIV X CVT
+
+PRICES (2025, inclusive of tax):
+- Yaris GLI MT 1.3: PKR 4,649,000
+- Yaris GLI CVT 1.3: PKR 4,899,000
+- Yaris ATIV MT 1.3: PKR 5,099,000
+- Yaris ATIV CVT 1.3: PKR 5,349,000
+- Yaris ATIV X MT 1.5: PKR 5,699,000
+- Yaris ATIV X CVT 1.5: PKR 5,949,000
+
+ENGINE SPECIFICATIONS:
+- 1NZ-FE 1.3L 4-cylinder DOHC VVT-i engine (GLI, ATIV variants)
+- 2NZ-FE 1.5L 4-cylinder DOHC VVT-i engine (ATIV X variants)
+- Power: 97 hp @ 6000 rpm (1.3L) | 107 hp @ 6000 rpm (1.5L)
+- Torque: 121 Nm @ 4200 rpm (1.3L) | 141 Nm @ 4200 rpm (1.5L)
+
+TRANSMISSION:
+- MT: 5-speed Manual
+- CVT: Continuously Variable Transmission (Automatic)
+
+FUEL ECONOMY:
+- 1.3L MT: 16-18 km/L (city), 19-21 km/L (highway)
+- 1.3L CVT: 15-17 km/L (city), 18-20 km/L (highway)
+- 1.5L MT: 14-16 km/L (city), 17-19 km/L (highway)
+- 1.5L CVT: 13-15 km/L (city), 16-18 km/L (highway)
+
+DIMENSIONS:
+- Length: 4425 mm
+- Width: 1730 mm
+- Height: 1475 mm
+- Wheelbase: 2550 mm
+- Ground Clearance: 155 mm
+- Fuel Tank Capacity: 42 Liters
+- Boot Space: 476 Liters
+- Seating Capacity: 5 persons
+
+SAFETY FEATURES:
+- Dual SRS Airbags (driver + passenger)
+- ABS (Anti-lock Braking System)
+- EBD (Electronic Brake-force Distribution)
+- Immobilizer
+- Seat belt reminder
+- ATIV X: 6 Airbags, VSC (Vehicle Stability Control), Hill Start Assist
+
+COMFORT FEATURES:
+- 7-inch touchscreen infotainment (ATIV variants)
+- Bluetooth connectivity
+- USB charging ports
+- Rear AC vents
+- Push-start button (ATIV X CVT)
+- Automatic climate control (ATIV X)
+- Keyless entry
+
+MAINTENANCE SCHEDULE:
+- Engine oil change: Every 5,000 km or 6 months
+- Air filter: Every 30,000 km
+- Spark plugs: Every 20,000 km
+- Brake fluid: Every 40,000 km
+- Coolant: Every 80,000 km
+- Tire rotation: Every 10,000 km
+
+WARRANTY:
+- 3 years or 100,000 km (whichever comes first)
+- Genuine parts warranty: 6 months
+- Battery warranty: 1 year
+
+BEST FOR: Budget buyers, students, young professionals, city commuters
+FUEL TYPE: Petrol (supports CNG)
+
+---
+
+=== TOYOTA COROLLA ALTIS ===
+
+MODEL: Toyota Corolla Altis
+MANUFACTURER: Indus Motor Company (IMC), Pakistan
+AVAILABLE VARIANTS: 1.6L MT, 1.6L CVT, 1.8L MT, 1.8L CVT, Grande 1.8L CVT
+
+PRICES (2025, inclusive of tax):
+- Corolla Altis 1.6 MT: PKR 6,299,000
+- Corolla Altis 1.6 CVT: PKR 6,649,000
+- Corolla Altis 1.8 MT: PKR 6,999,000
+- Corolla Altis 1.8 CVT: PKR 7,349,000
+- Corolla Altis Grande 1.8 CVT: PKR 7,999,000
+
+ENGINE SPECIFICATIONS:
+- 1ZR-FE 1.6L 4-cylinder DOHC VVT-i (1.6L variants)
+- 2ZR-FE 1.8L 4-cylinder DOHC Dual VVT-i (1.8L variants)
+- Power: 121 hp @ 6000 rpm (1.6L) | 140 hp @ 6400 rpm (1.8L)
+- Torque: 154 Nm @ 3800 rpm (1.6L) | 172 Nm @ 4000 rpm (1.8L)
+
+TRANSMISSION:
+- MT: 6-speed Manual
+- CVT: Continuously Variable Transmission
+
+FUEL ECONOMY:
+- 1.6L MT: 13-15 km/L (city), 16-18 km/L (highway)
+- 1.6L CVT: 12-14 km/L (city), 15-17 km/L (highway)
+- 1.8L MT: 12-14 km/L (city), 15-17 km/L (highway)
+- 1.8L CVT: 11-13 km/L (city), 14-16 km/L (highway)
+
+DIMENSIONS:
+- Length: 4630 mm
+- Width: 1775 mm
+- Height: 1460 mm
+- Wheelbase: 2700 mm
+- Ground Clearance: 150 mm
+- Fuel Tank Capacity: 50 Liters
+- Boot Space: 371 Liters
+- Seating Capacity: 5 persons
+
+SAFETY FEATURES:
+- 7 SRS Airbags (Grande)
+- ABS + EBD
+- VSC (Vehicle Stability Control)
+- TRC (Traction Control)
+- Hill Start Assist Control
+- Rear parking camera
+- Pre-collision warning system
+
+COMFORT FEATURES:
+- 8-inch touchscreen with Apple CarPlay & Android Auto (Grande)
+- Automatic climate control (dual zone on Grande)
+- Leather seats (Grande)
+- Paddle shifters (Grande CVT)
+- Heated front seats (Grande)
+- LED headlights
+- 16-inch alloy wheels
+- Wireless charging (Grande)
+
+MAINTENANCE SCHEDULE:
+- Engine oil: Every 5,000 km or 6 months
+- Air filter: Every 40,000 km
+- Spark plugs (iridium): Every 100,000 km
+- Transmission fluid: Every 80,000 km
+- Brake fluid: Every 40,000 km
+- Coolant: Every 80,000 km
+
+WARRANTY:
+- 3 years or 100,000 km (whichever comes first)
+- Roadside assistance: Available through IMC dealers
+
+BEST FOR: Executives, families, professionals who want premium sedan experience
+FUEL TYPE: Petrol
+
+---
+
+=== TOYOTA COROLLA CROSS HYBRID ===
+
+MODEL: Toyota Corolla Cross Hybrid
+MANUFACTURER: Indus Motor Company (IMC), Pakistan — Locally Assembled since 2023
+AVAILABLE VARIANTS: 1.8L Hybrid (Single variant)
+
+PRICE (2025):
+- Corolla Cross Hybrid: PKR 10,499,000
+
+ENGINE SPECIFICATIONS:
+- 2ZR-FXE 1.8L 4-cylinder DOHC + Electric Motor
+- Combined System Power: 122 hp
+- Petrol Engine: 98 hp
+- Electric Motor: 72 hp
+- Battery: Nickel-Metal Hydride (NiMH)
+
+TRANSMISSION: E-CVT (Electronic Continuously Variable Transmission)
+
+FUEL ECONOMY:
+- Combined: 20-24 km/L
+- City: 22-26 km/L (electric assist in city driving)
+- Highway: 18-20 km/L
+
+DIMENSIONS:
+- Length: 4460 mm
+- Width: 1825 mm
+- Height: 1620 mm
+- Wheelbase: 2640 mm
+- Ground Clearance: 160 mm
+- Fuel Tank Capacity: 43 Liters
+- Boot Space: 440 Liters (reduced by hybrid battery)
+- Seating Capacity: 5 persons
+
+HYBRID SYSTEM:
+- Self-charging hybrid (no external plug-in charging needed)
+- Automatically switches between petrol and electric
+- Regenerative braking system
+- EV mode available at low speeds
+
+SAFETY FEATURES:
+- Toyota Safety Sense (TSS):
+  - Pre-Collision System (PCS)
+  - Lane Departure Alert (LDA)
+  - Automatic High Beam (AHB)
+  - Radar Cruise Control
+- 8 SRS Airbags
+- ABS + EBD
+- VSC + TRC
+- Blind Spot Monitor
+- Rear Cross Traffic Alert
+
+COMFORT FEATURES:
+- 10.5-inch touchscreen infotainment
+- Apple CarPlay & Android Auto (wireless)
+- Panoramic sunroof
+- Leather seats
+- Digital instrument cluster
+- 360-degree camera
+- Wireless phone charging
+- Ambient interior lighting
+
+MAINTENANCE SCHEDULE:
+- Engine oil: Every 5,000 km or 6 months
+- Air filter: Every 40,000 km
+- Hybrid battery: No regular maintenance (8-10 year lifespan)
+- Coolant: Every 100,000 km
+- Brake pads last longer (due to regenerative braking)
+
+WARRANTY:
+- Vehicle: 3 years or 100,000 km
+- Hybrid Battery: 8 years or 160,000 km (separate warranty)
+
+BEST FOR: Environmentally conscious buyers, those who want fuel savings, SUV lovers
+FUEL TYPE: Petrol + Electric (Self-Charging Hybrid)
+
+---
+
+=== TOYOTA FORTUNER ===
+
+MODEL: Toyota Fortuner
+MANUFACTURER: Indus Motor Company (IMC), Pakistan
+AVAILABLE VARIANTS: 2.7L VVT-i 4x2 AT, 2.7L VVT-i 4x4 AT, 2.8L Sigma4 4x4 AT, Legender 2.8L Sigma4
+
+PRICES (2025, inclusive of tax):
+- Fortuner 2.7 VVT-i 4x2 AT: PKR 12,999,000
+- Fortuner 2.7 VVT-i 4x4 AT: PKR 14,499,000
+- Fortuner 2.8 Sigma4 4x4 AT: PKR 16,499,000
+- Fortuner Legender 2.8 Sigma4: PKR 18,999,000
+
+ENGINE SPECIFICATIONS:
+- 2TR-FE 2.7L 4-cylinder DOHC VVT-i Petrol
+- 1GD-FTV 2.8L 4-cylinder DOHC Turbo Diesel (Sigma4)
+- Petrol Power: 166 hp @ 5200 rpm
+- Diesel Power: 204 hp @ 3400 rpm
+- Petrol Torque: 245 Nm @ 4000 rpm
+- Diesel Torque: 500 Nm @ 1600-2800 rpm
+
+TRANSMISSION: 6-speed Automatic
+
+FUEL ECONOMY:
+- 2.7L Petrol: 8-10 km/L (city), 11-13 km/L (highway)
+- 2.8L Diesel: 10-12 km/L (city), 13-15 km/L (highway)
+
+DIMENSIONS:
+- Length: 4795 mm
+- Width: 1855 mm
+- Height: 1835 mm
+- Wheelbase: 2745 mm
+- Ground Clearance: 222 mm
+- Fuel Tank Capacity: 80 Liters
+- 3-Row Seating
+- Seating Capacity: 7 persons
+
+SAFETY FEATURES:
+- Toyota Safety Sense (Legender)
+- 7 SRS Airbags
+- ABS + EBD + BA
+- VSC + TRC + DAC
+- Hill Start Assist + Downhill Assist
+- Rear parking sensors and camera
+- ATRC (Active Traction Control) — 4x4 models
+
+COMFORT FEATURES:
+- 9-inch touchscreen (Legender: 12.3-inch)
+- Apple CarPlay & Android Auto
+- Captain seats (middle row)
+- Power-adjustable front seats
+- Sunroof (Legender)
+- 360 camera (Legender)
+- Ambient lighting (Legender)
+- 18-inch alloy wheels
+
+MAINTENANCE SCHEDULE:
+- Engine oil: Every 5,000 km (petrol), Every 10,000 km (diesel)
+- Diesel filter: Every 20,000 km
+- Air filter: Every 40,000 km
+- Transfer case oil: Every 40,000 km
+- Differential oil: Every 40,000 km
+
+WARRANTY:
+- 3 years or 100,000 km
+
+BEST FOR: Large families, off-road adventurers, long-distance travelers, executives
+FUEL TYPE: Petrol (2.7L) or Diesel (2.8L Sigma4)
+
+---
+
+=== TOYOTA HILUX ===
+
+MODEL: Toyota Hilux (Revo)
+MANUFACTURER: Indus Motor Company (IMC), Pakistan
+AVAILABLE VARIANTS: Single Cab, Extra Cab, Double Cab (various trims)
+
+PRICES (2025):
+- Hilux Single Cab 2.4L MT: PKR 7,499,000
+- Hilux Extra Cab 2.4L MT: PKR 8,499,000
+- Hilux Revo Double Cab 2.8L AT: PKR 13,499,000
+- Hilux GRS Double Cab: PKR 16,999,000
+
+ENGINE:
+- 2GD-FTV 2.4L Turbo Diesel
+- 1GD-FTV 2.8L Turbo Diesel
+- Power: 150 hp (2.4L) | 204 hp (2.8L)
+- Torque: 400 Nm (2.4L) | 500 Nm (2.8L)
+
+FUEL ECONOMY:
+- 2.4L: 10-13 km/L
+- 2.8L: 11-14 km/L
+
+DIMENSIONS:
+- Ground Clearance: 279 mm (highest among Toyota Pakistan lineup)
+- Seating: 2 (Single Cab), 4 (Extra Cab), 5 (Double Cab)
+- Payload Capacity: 1,000 kg+
+
+BEST FOR: Commercial use, off-road, agriculture, rugged terrain, towing
+
+---
+
+=== TOYOTA HIACE ===
+
+MODEL: Toyota Hiace
+USE: Commercial passenger and cargo transport
+Seating Capacity: Up to 15 persons
+Engine: 2.8L Turbo Diesel
+PRICE: Starting from PKR 8,299,000
+BEST FOR: Businesses, transport services, large group travel
+
+---
+
+=== TOYOTA MODEL COMPARISONS ===
+
+YARIS vs COROLLA ALTIS:
+- Yaris: Smaller, cheaper (PKR 4.6M-5.9M), 1.3-1.5L engine, 155mm ground clearance, better fuel economy, ideal for city
+- Corolla Altis: Larger, more premium (PKR 6.3M-8.0M), 1.6-1.8L engine, more power, better features, ideal for highway + families
+- Key difference: Corolla is bigger (4630mm vs 4425mm), has more boot space, and feels more premium
+- Recommendation: Yaris for tight budget/city use; Corolla for long-distance or family sedan
+
+PETROL vs HYBRID (Corolla Cross):
+- Petrol sedan (Altis): Lower purchase price, simpler maintenance, parts easily available
+- Hybrid (Cross): Higher purchase price but saves 30-40% on fuel, better for high-mileage drivers
+- Break-even: If you drive 2000+ km/month, hybrid pays back in 3-4 years
+- Hybrid battery warranty: 8 years / 160,000 km
+
+BEST FOR FAMILY:
+- Budget family: Toyota Yaris ATIV X (PKR 5.7M) — 5 seats, good safety, CVT option
+- Mid-range family: Toyota Corolla Altis Grande (PKR 8.0M) — premium, safe, comfortable
+- Large family: Toyota Fortuner (PKR 13M+) — 7 seats, 3 rows, SUV safety
+- Best overall value family car: Toyota Corolla Altis 1.6 CVT
+
+BEST FUEL EFFICIENCY (ranked):
+1. Toyota Corolla Cross Hybrid — 20-26 km/L
+2. Toyota Yaris 1.3 MT — 16-21 km/L
+3. Toyota Yaris 1.3 CVT — 15-20 km/L
+4. Toyota Corolla Altis 1.6 MT — 13-18 km/L
+5. Toyota Fortuner 2.8 Diesel — 10-15 km/L
+6. Toyota Fortuner 2.7 Petrol — 8-13 km/L
+
+BEST VALUE FOR MONEY:
+- Under PKR 5M: Toyota Yaris GLI MT
+- Under PKR 7M: Toyota Corolla Altis 1.6 MT
+- Under PKR 11M: Toyota Corolla Cross Hybrid
+- Family SUV: Toyota Fortuner 2.7 (better value than diesel)
+
+BEST FOR LONG-DISTANCE TRAVEL:
+1. Toyota Fortuner — High ground clearance, powerful engine, 7 seats
+2. Toyota Corolla Altis Grande — Comfortable, fuel-efficient highway cruiser
+3. Toyota Corolla Cross Hybrid — Best fuel economy in SUV body style
+
+MODELS WITH TOYOTA SAFETY SENSE (TSS):
+- Toyota Corolla Cross Hybrid (standard)
+- Toyota Fortuner Legender (standard)
+- Toyota Hilux GRS (standard)
+- Note: TSS includes Pre-Collision System, Lane Departure Alert, Radar Cruise Control
+
+AUTOMATIC TRANSMISSION AVAILABILITY:
+- Toyota Yaris: Available (CVT on ATIV and ATIV X variants)
+- Toyota Corolla Altis: Available (CVT on all variants except base)
+- Toyota Corolla Cross: Standard E-CVT
+- Toyota Fortuner: Standard 6-speed Automatic
+- Toyota Hilux: Available on Double Cab 2.8L
+
+HYBRID MODELS IN PAKISTAN:
+- Toyota Corolla Cross Hybrid (locally assembled, PKR 10.5M)
+- Note: Other hybrids (Camry, RAV4) are available as imports but not locally assembled
+
+---
+
+=== TOYOTA WARRANTY & AFTER-SALES ===
+
+STANDARD WARRANTY (All IMC Models):
+- 3 years or 100,000 km (whichever comes first)
+- Covers: Manufacturing defects, engine, transmission, electrical
+
+HYBRID BATTERY WARRANTY:
+- 8 years or 160,000 km (Corolla Cross Hybrid)
+
+GENUINE PARTS WARRANTY:
+- 6 months on all genuine spare parts
+
+AUTHORIZED SERVICE CENTERS:
+- 50+ 3S Dealerships across Pakistan
+- Major cities: Karachi, Lahore, Islamabad, Peshawar, Quetta, Faisalabad, Multan
+- Toyota Express Maintenance available at select dealers (under 1 hour service)
+
+MAINTENANCE COST ESTIMATES (approximate):
+- Yaris oil change service: PKR 5,000-8,000
+- Corolla Altis oil change service: PKR 7,000-10,000
+- Fortuner oil change service: PKR 10,000-15,000
+- Major service (40,000 km): PKR 20,000-40,000 depending on model
+
+RESALE VALUE:
+- Toyota holds some of the best resale values in Pakistan
+- Corolla: Loses 10-15% value in first year (vs 20-30% for other brands)
+- Fortuner: Often maintains or appreciates in value
+- Yaris: Good resale, 12-18% first year depreciation
+
+---
+
+=== BUYING GUIDE FOR PAKISTAN ===
+
+QUESTIONS TO ASK BEFORE BUYING:
+1. What is your monthly driving distance?
+2. Is it primarily city or highway use?
+3. How many passengers regularly?
+4. What is your total budget (include registration, insurance)?
+5. Do you prefer automatic or manual?
+
+REGISTRATION COSTS (approximate):
+- Yaris: PKR 200,000-300,000
+- Corolla Altis: PKR 350,000-500,000
+- Corolla Cross: PKR 600,000-800,000
+- Fortuner: PKR 900,000-1,500,000
+
+INSURANCE (annual estimate):
+- Comprehensive: 2-3% of vehicle value
+- Tracker installation recommended for all models
+
+TIPS FOR TOYOTA BUYERS IN PAKISTAN:
+- Always buy from authorized IMC dealers
+- Check delivery time (Fortuner can have 6-12 month wait)
+- Verify Corolla Cross hybrid certification for tax benefits
+- Request PDI (Pre-Delivery Inspection) report
+- Check for any active recalls on IMC website
+
+CNG COMPATIBILITY:
+- Yaris: Supports CNG (aftermarket kit)
+- Corolla Altis: Supports CNG (1.6L, not recommended on 1.8L)
+- Fortuner: NOT recommended for CNG
+- Corolla Cross Hybrid: NOT compatible with CNG
