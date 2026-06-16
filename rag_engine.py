@@ -5,11 +5,12 @@ import chromadb
 from sentence_transformers import SentenceTransformer
 from google import genai
 
-load_dotenv(Path(r"C:\Users\Taha\Downloads\files\.env"))
+load_dotenv(BASE_DIR / ".env")
+BASE_DIR = Path(__file__).resolve().parent
 
 GEMINI_API_KEY  = os.getenv("GEMINI_API_KEY")
-DATA_FILE       = Path(r"C:\Users\Taha\Downloads\files\data\toyota_pakistan_data.txt")
-CHROMA_DB_PATH  = Path(r"C:\Users\Taha\Downloads\files\embeddings\chroma_db")
+DATA_FILE = BASE_DIR / "data" / "toyota_pakistan_data.txt"
+CHROMA_DB_PATH = BASE_DIR / "embeddings" / "chroma_db"
 COLLECTION_NAME = "toyota_pakistan"
 CHUNK_SIZE      = 400
 CHUNK_OVERLAP   = 80
